@@ -14,5 +14,10 @@
             <artifactId>pdfbox</artifactId>
             <version>1.8.3</version>
         </dependency>
+        <dependency>
+            <groupId>com.itextpdf</groupId>
+            <artifactId>itextpdf</artifactId>
+            <version>5.4.5</version>
+        </dependency>
     </dependencies>
 </project>
